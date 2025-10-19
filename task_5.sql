@@ -1,4 +1,3 @@
-
 USE alx_book_store;
 
 INSERT INTO Customer (customer_id, customer_name, email, address)
